@@ -86,7 +86,7 @@ html, body { height: 100%; }
 
 .icon-layout.icon-left a:before, .icon-layout.icon-right a:after, i.icon-layout:before { content: "\\268f"; height: inherit; }
 
-.icon-menu.icon-left a:before, .icon-menu.icon-right a:after, i.icon-menu:before { content: "\\2630"; height: inherit; }
+.icon-menu.icon-left a:before, .icon-menu.icon-right a:after, i.icon-menu:before { content: "\2630"; height: inherit; }
 
 .icon-check.icon-left a:before, .icon-check.icon-right a:after, i.icon-check:before { content: "\\2713"; height: inherit; }
 
