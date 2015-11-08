@@ -1,0 +1,13 @@
+/* Bootstrap Overrides */
+@media screen and (min-width: 768px)
+.jumbotron {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.jumbotron {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    margin-bottom: 0px;
+    color: #fff;
+    background-color: #4682B4;
+}
