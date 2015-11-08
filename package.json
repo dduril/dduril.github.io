@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap.github.io",
+  "version": "1.0.0",
+  "description": "Github.io blog pages for Doug Duril",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Doug Duril",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "bootstrap": "^3.3.5"
+  }
+}
