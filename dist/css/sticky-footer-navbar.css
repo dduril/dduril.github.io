@@ -1,0 +1,51 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: static;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 180px;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+  padding: 10px 15px 0;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+    .footer {
+      position: static;
+      bottom: 0;
+      width: 100%;
+      /* Set the fixed height of the footer here */
+      height: 180px;
+    }
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+    .footer {
+      position: static;
+      bottom: 0;
+      width: 100%;
+      /* Set the fixed height of the footer here */
+      height: 180px;
+    }
+}

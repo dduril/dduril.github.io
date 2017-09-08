@@ -1,3 +1,44 @@
+/* main body styles */
+body { 
+    padding-top: 50px; 
+}
+
+.row {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+/* end main body styles */
+
+
+/* navbar */
+.navbar {
+    margin-bottom: 0px;    
+}
+/* end navbar */
+
+
+/* jumbotron custom styles */
+.custom-jumbotron {
+    margin-bottom: .5em;
+	padding: 1.8em 1.8em;
+	background-color: #0e2f44;
+	color: #fff;
+}
+
+/* console */
+.console {
+    display: block;
+    margin: 10px 10px 35px 0;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    font-family: "Courier New", sans-serif;
+    width: 100%;
+}
+/* end console */
+
 /* Bootstrap Overrides */
 @media screen and (min-width: 768px)
 .jumbotron {
