@@ -39,6 +39,38 @@ body {
 }
 /* end console */
 
+/* footer */
+.row-footer {
+    border-top: 4px solid #f5f5f5;
+    padding-top: 20px;    
+}
+
+.panel-footer {
+  margin-top: 30px;
+  padding-top: 35px;
+  padding-bottom: 30px;
+  border-top: 0;
+  background-color: #fff;
+}
+
+.panel-footer div.row {
+  margin-bottom: 35px;
+}
+
+.pad-left {
+    padding-left: 0px;
+}
+
+#footer-section-col-1, #footer-section-col-2 {
+  line-height: 2;
+}
+
+#footer-section-col-1 > span, #footer-section-col-2 > span {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+/* end footer */
+
 /* Bootstrap Overrides */
 @media screen and (min-width: 768px)
 .jumbotron {
