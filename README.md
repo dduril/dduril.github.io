@@ -1,4 +1,6 @@
-## Philosophy and Random Thoughts
+#### Programming Thoughts
 
-Not much code on this one - just some rambling, a little ranting, maybe a small bit of humor and some links to 
-cool and interesting stuff.
+Test site for github.io pages and ideas for future blog.
+
+**[Programming Thoughts](http://dduril.github.io/)** - Ideas Concerning Coding Philosophy and Craftsmanship
+
