@@ -1,6 +1,4 @@
-#### Programming Thoughts
+#### Website for github.io pages
 
-Test site for github.io pages and ideas for future blog.
-
-**[Programming Thoughts](http://dduril.github.io/)** - Ideas Concerning Coding Philosophy and Craftsmanship
+**[Programming Thoughts](http://dduril.github.io/)** - Concerning Coding Philosophy and Craftsmanship
 
