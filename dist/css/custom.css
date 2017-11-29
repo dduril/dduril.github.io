@@ -25,6 +25,12 @@ body {
 	color: #fff;
 }
 
+/* column custom styles */
+.custom-col-md-12 {
+    padding-left: 0px;
+}
+
+
 /* console */
 .console {
     display: block;
