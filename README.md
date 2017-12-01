@@ -1,6 +1,8 @@
-## Sample Site for GitHub Pages
+## On Programming
 
-This project incorporates Angular, Bootstrap, Font Awesome and jQuery to build out a basic site on GitHub Pages. The pages feature some thoughts about coding and craftsmanship, but mostly serve the purpose of providing a sandbox for experimenting with using GitHub for web hosting. 
+This project incorporates Angular, Bootstrap, Font Awesome and jQuery to build out a basic site using GitHub Pages. These pages feature some personal thoughts and observations regarding software engineering and craftsmanship. 
 
-**[Demo](http://dduril.github.io/)**
+The secondary goal for this site is to have a sandbox for exploring the use of GitHub Pages. 
+
+Here is the link to the actual site hosted here at GitHub: **[On Programming](http://dduril.github.io/)**
 
