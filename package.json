@@ -9,7 +9,7 @@
   "author": "Doug Duril",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^2.1.4",
+    "jquery": "^3.0.0",
     "bootstrap": "^3.3.5"
   }
 }
